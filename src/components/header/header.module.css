@@ -1,0 +1,38 @@
+a {
+  text-decoration: none;
+  color: var(--color-dark-indigo);
+}
+
+ul {
+  list-style: none; 
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  padding: var(--gap-l);
+  flex-shrink: 0;
+}
+
+.logo {
+  height: 26px;
+  width: 145px;
+}
+
+.menu {
+  color: inherit;
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: flex;
+  gap: var(--gap-s);
+  align-items: center;
+  cursor: pointer;
+}
+
+.image {
+  height: 18px;
+  width: 30px;
+}

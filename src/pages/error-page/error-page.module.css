@@ -1,0 +1,9 @@
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: var(--gap-2xl);
+  -webkit-text-stroke: 1px var(--color-red-brand);
+}

@@ -1,0 +1,17 @@
+.block {
+  margin-bottom: var(--gap-2xl);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.subblock {
+  margin-left: var(--gap-l);
+}
+
+.gap {
+  margin-bottom: var(--gap-l);
+}
+
+.gap_2xl {
+  margin-bottom: var(--gap-2xl);
+}

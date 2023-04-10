@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тесты компонента Footer снепшот компонента 1`] = `
+<body>
+  <div>
+    <footer
+      class="container"
+    >
+      <div
+        class="company"
+      >
+        © ООО «Альфа Фьюче Пипл», 2022
+      </div>
+      <div
+        class="container"
+      >
+        <a
+          class="link"
+          href="/policy"
+        >
+          Политика конфиденциальности
+          <br />
+          и обработки персональных данных
+        </a>
+      </div>
+    </footer>
+  </div>
+</body>
+`;

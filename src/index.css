@@ -1,0 +1,29 @@
+@import '@alfalab/core-components/vars/index.css';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Styrene;
+    src: url("assets/fonts/StyreneAWeb-Bold.woff2");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Styrene;
+    src: url("assets/fonts/StyreneAWeb-Black.woff2");
+    font-weight: black;
+}
+
+@font-face {
+    font-family: Styrene;
+    src: url("assets/fonts/StyreneAWeb-Regular.woff2");
+}
+
+
+body {
+    font-family: Styrene, Aria, sans-serif;
+}

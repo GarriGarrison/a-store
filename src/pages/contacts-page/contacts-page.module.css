@@ -1,0 +1,8 @@
+.gap_2xl {
+  margin: var(--gap-2xl) 0;
+}
+
+.map {
+  height: 500px;
+  width: 500px;
+}

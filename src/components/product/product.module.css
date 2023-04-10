@@ -1,0 +1,32 @@
+.view {
+  max-height: 800px;
+  max-width: 600px;
+  width: 95%;
+}
+
+.preview__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 850px;
+}
+
+.preview__image {
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+  background-size: cover;
+  margin: var(--gap-2xs);
+}
+
+.select {
+  margin-bottom: var(--gap-l);
+}
+
+.price {
+  margin: var(--gap-l);
+}
+
+.subtitle {
+  margin: var(--gap-2xs) 0;
+}
+

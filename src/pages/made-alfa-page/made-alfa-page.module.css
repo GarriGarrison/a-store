@@ -1,0 +1,13 @@
+.title {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: var(--gap-xl);
+}
+
+.cardList {
+  display: flex;
+  row-gap: var(--gap-2xl);
+  column-gap: var(--gap-l);
+  flex-wrap: wrap;
+  margin-bottom: var(--gap-2xl);
+}

@@ -1,0 +1,35 @@
+.icon {
+  color:  var(--color-dark-text-primary);
+}
+
+.button {
+  width: 128px;
+  height: 128px;
+  border: none;
+  border-radius: var(--border-radius-circle);
+  background-color: white;
+  position: absolute;
+  top: 100px;
+  right: 50px;
+}
+
+
+.count {
+  position: absolute;
+  right: 20px;
+  top: 25px;
+  background-color: var(--color-dark-indigo);
+  color: var(--color-dark-indigo);
+}
+
+.total {
+  display: flex;
+  justify-content: end;
+  margin-bottom: var(--gap-2xl);
+}
+
+.divider {
+  height: 1px;
+  width: 100%;
+  margin-bottom: var(--gap-2xl);
+}

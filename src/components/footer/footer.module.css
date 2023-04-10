@@ -1,0 +1,21 @@
+.container {
+  padding: var(--gap-l);
+  color: var( --color-dark-text-primary-inverted-alpha-40);
+  height: 100px;
+  flex-shrink: 0;
+  z-index: 2;
+  display: flex;
+}
+
+.company {
+  flex-grow: 2;
+}
+
+.policy {
+  flex-grow: 1;
+}
+
+.link {
+  text-decoration: underline;
+  color: var( --color-dark-text-primary-inverted-alpha-40);
+}

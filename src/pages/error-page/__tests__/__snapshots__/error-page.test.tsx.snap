@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тесты страницы «404» снепшот страницы 1`] = `
+<body>
+  <div>
+    <div
+      class="container"
+    >
+      <h1
+        class="typography__component_lu6tt typography__styrene-xlarge_ez5iu typography__medium_lu6tt"
+      >
+        Ошибка сервера
+      </h1>
+      <img
+        alt="Error server"
+        src="errorServer.jpg"
+      />
+    </div>
+  </div>
+</body>
+`;

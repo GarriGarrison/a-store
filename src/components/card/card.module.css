@@ -1,0 +1,15 @@
+:root {
+  --card-width: 300px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: var(--card-width);
+  color: var(--color-dark-indigo);
+}
+
+.image {
+  height: 400px;
+  width: var(--card-width);
+}

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тесты компонента Header снепшот компонента 1`] = `
+<body>
+  <div>
+    <header
+      class="container"
+    >
+      <a
+        href="/"
+      >
+        <img
+          alt="logo"
+          class="logo"
+          data-testid="logo"
+          src="logo.png"
+        />
+      </a>
+      <nav>
+        <div
+          class="menu"
+        >
+          <img
+            alt="menu"
+            class="image"
+            data-testid="menu"
+            src="menu.svg"
+          />
+          <span>
+            МЕНЮ
+          </span>
+        </div>
+      </nav>
+    </header>
+  </div>
+</body>
+`;

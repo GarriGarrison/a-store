@@ -1,0 +1,16 @@
+.button {
+  height: var(--gap-4xl);
+}
+
+.header {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--color-static-graphic-botticelli);
+  padding: 0 var(--gap-s);
+  border-radius: var(--border-radius-xxl);
+}
+
+.error {
+  color: var(--color-red-brand);
+}
